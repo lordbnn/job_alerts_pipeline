@@ -51,13 +51,6 @@ The Data Engineering Job Vacancies ETL Pipeline aims to automate the process of 
 
 We welcome contributions from the data engineering community to enhance and extend this ETL pipeline further. Feel free to submit pull requests, raise issues, or provide feedback to help us improve the project.
 
-## Credits
-
-This project is maintained and developed by [Your Name] ([GitHub Profile](https://github.com/your-username)) and was inspired by the need for data-driven insights in the data engineering job market.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code as per the terms of the license.
 
 ![Data Engineering](https://img.shields.io/badge/Data%20Engineering-Job%20Vacancies-blue)
 
