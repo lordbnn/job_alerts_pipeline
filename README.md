@@ -49,7 +49,7 @@ The Data Engineering Job Vacancies ETL Pipeline aims to automate the process of 
 
 ## Contribution and Feedback
 
-We welcome contributions from the data engineering community to enhance and extend this ETL pipeline further. Feel free to submit pull requests, raise issues, or provide feedback to help us improve the project.
+Contributions are welcomed to enhance and extend this ETL pipeline further. Feel free to submit pull requests, raise issues, or provide feedback to help us improve the project.
 
 
 ![Data Engineering](https://img.shields.io/badge/Data%20Engineering-Job%20Vacancies-blue)
