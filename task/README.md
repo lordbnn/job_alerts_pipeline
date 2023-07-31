@@ -32,7 +32,6 @@ For this assignment, we will be utilizing the "Random User Generator" API, which
 
 5. **Scheduling**: You are required to schedule the DAG to run daily at a specific time.
 
-6. **Error Handling**: Implement error handling mechanisms to gracefully handle potential failures during the ETL process.
 
 ## Document Your Process
 Provide clear and concise documentation, explaining the steps you took to complete the assignment. Your documentation should include relevant code explanations, dependencies, and setup instructions.
