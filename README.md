@@ -37,7 +37,7 @@ The Data Engineering Job Vacancies ETL Pipeline aims to automate the process of 
 
 ## Usage
 
-1. Install the required Python packages using `pip install -r requirements.txt`.
+1. Start up Airflow as configured in the docker-compose file using `docker-compose up -d`.
 
 2. Set up a PostgreSQL database with credentials and ensure the connection URL is correctly provided in the script.
 
